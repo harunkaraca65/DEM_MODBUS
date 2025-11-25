@@ -1,0 +1,10 @@
+../ModbusLib/Src/modbusSlave.c:45:6:sendData	1
+../ModbusLib/Src/modbusSlave.c:54:6:modbusException	1
+../ModbusLib/Src/modbusSlave.c:65:9:readHoldingRegs	5
+../ModbusLib/Src/modbusSlave.c:105:9:readInputRegs	5
+../ModbusLib/Src/modbusSlave.c:144:9:readCoils	8
+../ModbusLib/Src/modbusSlave.c:212:9:readInputs	8
+../ModbusLib/Src/modbusSlave.c:280:9:writeHoldingRegs	5
+../ModbusLib/Src/modbusSlave.c:334:9:writeSingleReg	2
+../ModbusLib/Src/modbusSlave.c:367:9:writeSingleCoil	6
+../ModbusLib/Src/modbusSlave.c:411:9:writeMultiCoils	8

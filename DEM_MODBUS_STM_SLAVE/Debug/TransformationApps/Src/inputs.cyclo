@@ -1,0 +1,12 @@
+../TransformationApps/Src/inputs.c:45:10:map_adc_value	1
+../TransformationApps/Src/inputs.c:53:8:process_ntc	1
+../TransformationApps/Src/inputs.c:73:6:process_adc_data	1
+../TransformationApps/Src/inputs.c:98:8:calculate_angles	3
+../TransformationApps/Src/inputs.c:118:6:update_imu_angles	2
+../TransformationApps/Src/inputs.c:152:6:init_inputs	4
+../TransformationApps/Src/inputs.c:199:6:update_register_inputs	1
+../TransformationApps/Src/inputs.c:216:6:update_discrete_inputs	7
+../TransformationApps/Src/inputs.c:266:6:increment_success_count	1
+../TransformationApps/Src/inputs.c:273:6:increment_error_count	1
+../TransformationApps/Src/inputs.c:285:9:platform_write	1
+../TransformationApps/Src/inputs.c:297:9:platform_read	1
